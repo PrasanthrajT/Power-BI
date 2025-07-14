@@ -36,7 +36,7 @@ This dashboard helps a simulated e-commerce brand monitor customer churn and ret
 - Region-wise customer retention analysis
 - Table with icons for Retention Status and Segment Tag
 
-**📁 File:** [Customer Churn Dashboard.pbix](Customer%20Churn%20Dashboard/ChurnDashboard.pbix)
+**📁 File:** [Customer Churn Dashboard.pbix](https://github.com/PrasanthrajT/Power-BI/blob/08a8ed88a80ac90805279e5e4b9788653a053012/Customer%20Churn%20Dashboard.pbix)
 
 ---
 
