@@ -19,8 +19,7 @@ This dashboard analyzes sales performance for a fictional chocolate factory acro
 
 **📁 File:** [SalesDashboard.pbix](SalesDashboard/SalesDashboard.pbix)
 
---------------------------------------------------------------------------
-
+---
 
 ## 🛍️ 2. Customer Churn & Retention Dashboard – E-commerce
 
@@ -32,33 +31,43 @@ This dashboard helps a simulated e-commerce brand monitor customer churn and ret
 **📌 Highlights:**
 - Churn Rate (%) with Gauge Visual
 - Revenue, Orders, Customers (KPI Cards with icons)
-- Churned vs Retained Customers logic using `DATEDIFF` and `ALLEXCEPT`
-- Customer segmentation by CLTV: High, Mid, Low
-- Region-wise retention analysis
+- Churned vs Retained logic using `DATEDIFF` and `ALLEXCEPT`
+- CLTV-based Customer Segmentation (High, Mid, Low)
+- Region-wise customer retention analysis
 - Table with icons for Retention Status and Segment Tag
 
-**📁 File:** [Customer Churn Dashboard.pbix](Customer Churn Dashboard/ChurnDashboard.pbix)
+**📁 File:** [Customer Churn Dashboard.pbix](Customer%20Churn%20Dashboard/ChurnDashboard.pbix)
 
--------------------------------------------------------------------------------------
+---
 
-## 🧠 Upcoming Projects
+## 🏪 3. Inventory & Sales Optimization Dashboard – Retail
 
-| Project | Description |
-|--------|-------------|
-| Inventory Dashboard | Track stock levels, restock dates, and inventory turnover |
-| Financial Summary | Balance Sheet, Profit & Loss, and Ratio analysis |
-| Customer Segmentation | RFM and demographic analysis of customers |
+![Inventory & Sales Dashboard](https://github.com/PrasanthrajT/Power-BI/blob/739988ed2117e68c7de8c9d06c479dbf4e852864/Inventory%20%26%20Sales%20Optimization%20project/Inventory%20and%20Sales%20Optimization%20Dashboard_page-0001.jpg)
+
+**📝 Description:**  
+This dashboard integrates sales and inventory data to help retail stakeholders manage stock, monitor product movement, and optimize profit. Built using SQL Server and Power BI, it supports smart inventory decisions and advanced forecasting.
+
+**📌 Highlights:**
+- 📦 Inventory Value & Stock Health Cards
+- 🛒 Fast, Moderate, and Slow Moving Product Tags
+- 💰 Profit by Product and Category (Treemap, Pie)
+- 📉 30-Day Stock Depletion Forecast (Line Chart)
+- 📋 Matrix View for Stock vs Reorder vs Movement Type
+- 🔍 DAX-based Days of Stock Left Forecast
+- Top & Bottom 5 Products with Custom Toggle
+
+**📁 File:** [Inventory & Sales Optimization.pbix](Inventory%20%26%20Sales%20Optimization%20project/InventorySalesOptimization.pbix)
 
 ---
 
 ## 🛠️ Tools & Concepts Used
 
 - Power BI Desktop
-- Power Query (Data Cleaning & ETL)
-- DAX (Calculated Measures & Columns)
-- Time Intelligence (MTD, YTD, LY)
-- KPI Cards, Field Parameters, Treemaps, Slicers
-- Icons, Conditional Formatting, Gauge & Custom Charts
+- Power Query (ETL)
+- SQL Server (Relational Queries & Joins)
+- DAX (Custom KPIs & Time Intelligence)
+- KPI Cards, Matrix, Donut, Line, Bar, TreeMap
+- Icons, Conditional Formatting, Page Navigation
 
 ---
 
@@ -68,19 +77,30 @@ This dashboard helps a simulated e-commerce brand monitor customer churn and ret
 📍 India | 🎓 3+ years of experience in BI reporting  
 🔧 Skills: Power BI, Excel, SQL Server  
 📧 Email: prasanthrajthatiparthi123@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/prasanthraj-thatiparthi-22b65b260)
+🔗 [LinkedIn](https://www.linkedin.com/in/prasanthraj-thatiparthi-22b65b260)
 
 ---
 
 ## 💡 How to Use
 
-1. Clone/download the repo
-2. Open `.pbix` files using Power BI Desktop
-3. Explore dashboards and DAX logic
-4. Try changing filters and slicers for interactivity
+1. Clone/download the repository  
+2. Open `.pbix` files using Power BI Desktop  
+3. Explore dashboards and custom DAX logic  
+4. Try filtering, drilling, and toggling slicers for interactivity  
+
+---
+
+## 🚀 Upcoming Projects
+
+| Project               | Description                                      |
+|------------------------|--------------------------------------------------|
+| Financial Summary      | Balance Sheet, Profit & Loss, Ratio dashboards  |
+| Customer Segmentation  | RFM and demographic segmentation in retail      |
+| HR Analytics           | Workforce turnover, attrition, and cost metrics |
 
 ---
 
 ## 📌 License
 
 This project is for educational and portfolio purposes only. No real business data is used.
+
