@@ -56,7 +56,7 @@ This dashboard integrates sales and inventory data to help retail stakeholders m
 - 🔍 DAX-based Days of Stock Left Forecast
 - Top & Bottom 5 Products with Custom Toggle
 
-**📁 File:** [Inventory & Sales Optimization.pbix](Inventory%20%26%20Sales%20Optimization%20project/InventorySalesOptimization.pbix)
+**📁 File:** [Inventory & Sales Optimization.pbix](https://github.com/PrasanthrajT/Power-BI/blob/96a1727bc2f23ea80bb1200191bbcacd56c97bc0/Inventory%20%26%20Sales%20Optimization%20project/Inventory%20and%20Sales%20Optimization%20Dashboard.pbix)
 
 ---
 
