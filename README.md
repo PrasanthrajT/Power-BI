@@ -17,7 +17,7 @@ This dashboard analyzes sales performance for a fictional chocolate factory acro
 - Advanced slicer formatting and conditional visuals
 - Time Intelligence: MTD, YTD, and LY Sales using DAX
 
-**📁 File:** [SalesDashboard.pbix](SalesDashboard/SalesDashboard.pbix)
+**📁 File:** [SalesDashboard.pbix](https://github.com/PrasanthrajT/Power-BI/blob/08a8ed88a80ac90805279e5e4b9788653a053012/Sales%20Dashboard.pbix)
 
 ---
 
