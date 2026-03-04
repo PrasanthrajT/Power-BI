@@ -74,7 +74,7 @@ This dashboard integrates sales and inventory data to help retail stakeholders m
 ## 👤 About Me
 
 **Prasanthraj Thatiparthi**  
-📍 India | 🎓 3+ years of experience in BI reporting  
+📍 India | 🎓 3.5+ years of experience in BI reporting  
 🔧 Skills: Power BI, Excel, SQL Server  
 📧 Email: prasanthrajthatiparthi123@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/prasanthraj-thatiparthi-22b65b260)
