@@ -1,6 +1,6 @@
 # 📊 Power BI Dashboard Portfolio
 
-Welcome to my Power BI portfolio. This repository showcases real-time business dashboards developed using Power BI, DAX, and Power Query. These projects are designed to demonstrate strong data modeling, visualization, and business analytics skills — suitable for roles like **Power BI Developer** and **Data Analyst**.
+Welcome to my Power BI portfolio. This repository showcases real-time business dashboards developed using Power BI, DAX, and Power Query. These projects are designed to demonstrate strong data modeling, visualization, and business analytics skills.
 
 ---
 
@@ -75,7 +75,7 @@ This dashboard integrates sales and inventory data to help retail stakeholders m
 
 **Prasanthraj Thatiparthi**  
 📍 India | 🎓 3.5+ years of experience in BI reporting  
-🔧 Skills: Power BI, Excel, SQL Server  
+🔧 Skills: Power BI, Excel, SQL Server, Basics of Python
 📧 Email: prasanthrajthatiparthi123@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/prasanthraj-thatiparthi-22b65b260)
 
